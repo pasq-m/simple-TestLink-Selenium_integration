@@ -6,7 +6,6 @@ import testlink.api.java.client.TestLinkAPIException;
 public class TestLinkIntegration {
 	
 	public static final String TESTLINK_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
-	//public static final String TESTLINK_URL = "http://localhost/testlink-1.9.20-16/apps/testlink/htdocs/lib/api/xmlrpc/v1/xmlrpc.php";
 	public static final String TESTLINK_URL = "http://localhost/testlink/lib/api/xmlrpc/v1/xmlrpc.php";
 	public static final String TEST_PROJECT_NAME = "SeleniumAutomation";
 	public static final String TEST_PLAN_NAME = "SeleniumAutomation Test Plan 1";
